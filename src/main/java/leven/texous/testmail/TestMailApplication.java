@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestMailApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(TestMailApplication.class, args);
 	}
 }
